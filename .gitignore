@@ -3,3 +3,4 @@ lib
 .idea
 coverage
 .DS_Store
+.npmrc
